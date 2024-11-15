@@ -93,10 +93,10 @@ print("Inliers:", inliers)
 
 ## Results
 - Euclidean Transformation:
-  ![Euclidean Transformation](images/euclidean.png)
+  ![Euclidean Transformation](images/Euclidean.png)
 - Similarity Transformation:
-  ![Similarity Transformation](images/similarity.png)
+  ![Similarity Transformation](images/Similarity.png)
 - Affine Transformation:
-  ![Affine Transformation](images/affine.png)
+  ![Affine Transformation](images/Affine.png)
 - Projective Transformation:
-  ![Projective Transformation](images/projective.png)
+  ![Projective Transformation](images/Projective.png)
